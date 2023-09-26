@@ -1,0 +1,56 @@
+{
+    "form_title": "独自フォームタイトル",
+    "questions": [
+      {
+        "id": "Q1",
+        "type": "text",
+        "text": "質問テキスト1",
+        "notice": "注釈1",
+        "required": true
+      },
+      {
+        "id": "Q2",
+        "type": "textarea",
+        "text": "質問テキスト2",
+        "notice": "注釈2",
+        "required": false
+      },
+      {
+        "id": "Q3",
+        "type": "select",
+        "text": "質問テキスト3",
+        "notice": "注釈3",
+        "required": true,
+        "options": [
+          {
+            "text": "選択肢テキスト1",
+            "value": "選択肢の値1"
+          },
+          {
+            "text": "選択肢テキスト2",
+            "value": "選択肢の値2"
+          }
+        ]
+      },
+      {
+        "id": "Q4",
+        "type": "multiselect",
+        "text": "質問テキスト4",
+        "notice": "注釈4",
+        "options": [
+          {
+            "text": "選択肢テキスト1",
+            "value": "選択肢の値1"
+          },
+          {
+            "text": "選択肢テキスト2",
+            "value": "選択肢の値2"
+          },
+          {
+            "text": "選択肢テキスト3",
+            "value": "選択肢の値3"
+          }
+        ]
+      }
+    ]
+}
