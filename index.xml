@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+    <lastBuildDate><![CDATA['2018-02-01  0:00:00']]></lastBuildDate>
+    <publisher><![CDATA[kojima-test-2]]></publisher>
+    <publisherurl><![CDATA[http://kojiryo.com/]]></publisherurl>
+    <job>
+        <referencenumber><![CDATA[k1234567]]></referencenumber>
+        <url><![CDATA[http://www.jobpublisher.jp/job/12345]]></url>
+        <company><![CDATA[株式会社小島]]></company>
+        <company_code><![CDATA[01]]></company_code>
+        <title><![CDATA[コールセンター・テレオペ]]></title>
+        <lead><![CDATA[お客様からのお電話への受け答えをお願いします。]]></lead>
+        <jobcategory><![CDATA[1003]]></jobcategory>
+        <description><![CDATA[未経験者歓迎！！弊社商品の使い方などの問い合わせに対して電話で回答をお願いします。
+        マニュアルに沿った回答なので初めての方でも大丈夫です！]]></description>
+        <jobtype><![CDATA[4]]></jobtype>
+        <postalcode><![CDATA[530-0051]]></postalcode>
+        <state><![CDATA[大阪府]]></state>
+        <city><![CDATA[大阪市北区]]></city>
+        <holiday><![CDATA[土日祝(完全週休二日制)]]></holiday>
+        <salary_type><![CDATA[時給]]></salary_type>
+        <salary_lower><![CDATA[1500]]></salary_lower>
+        <salary_upper><![CDATA[2500]]></salary_upper>
+        <benefits><![CDATA[各種社会保険完備、交通費別途全額支給]]></benefits>
+        <human_resource><![CDATA[コミュニケーション能力が高い方]]></human_resource>
+        <education><![CDATA[高卒以上]]></education>
+        <experience><![CDATA[特になし]]></experience>
+        <hires><![CDATA[1名]]></hires>
+        <keywords><![CDATA[学生歓迎,週2、3日～OK]]></keywords>
+    </job>
+</source>
